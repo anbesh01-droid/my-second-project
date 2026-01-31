@@ -20,5 +20,13 @@ This is my first GitHub project.
 
 \## Connect with me
 
-📸 Instagram: https://instagram.com/anbesh\_thapa
+📸 Instagram: ## 📱 Socials
+
+<a href="https://instagram.com/anbesh\_thapa" target="\_blank">
+
+&nbsp; <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white"/>
+
+</a>
+
+
 
